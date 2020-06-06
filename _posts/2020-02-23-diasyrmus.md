@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: "Diasyrmus"
+title: "diasyrmus"
 date: 2020-02-23
 ---
 
