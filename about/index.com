@@ -1,0 +1,1 @@
+My name's Tom Wootton and I'm head of product and portfolio for Accessibility Services, Red Bee Media. This is a scratchpad for stray thoughts, blurts and jottings on media, product, accessibility areas. 
