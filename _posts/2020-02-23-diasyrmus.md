@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: "Diasyrmus"
 date: 2020-02-23
 ---
